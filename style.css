@@ -40,14 +40,14 @@ html {
 }
 
 .img1 {
-    background-image: url("./img/bucket-green.png");
+    background-image: url("https://seojinb.github.io/mybucketlist/img/bucket-green.png");
     background-size: cover;
     background-position: center;
     color: white;
 }
 
 .img2 {
-    background-image: url("./img/bucket-lightgreen.png");
+    background-image: url("https://seojinb.github.io/mybucketlist/img/bucket-lightgreen.png");
     background-size: cover;
     background-position: center;
     color: white;
